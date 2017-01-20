@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangoWorkshop", "TangoWorkshop.csproj", "{71DB745A-9027-DBAF-3ABE-88F9C368C981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangoWorkshop.Editor", "TangoWorkshop.Editor.csproj", "{071FF828-9A64-2A7E-114C-229B33DB8CC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71DB745A-9027-DBAF-3ABE-88F9C368C981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DB745A-9027-DBAF-3ABE-88F9C368C981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DB745A-9027-DBAF-3ABE-88F9C368C981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DB745A-9027-DBAF-3ABE-88F9C368C981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071FF828-9A64-2A7E-114C-229B33DB8CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071FF828-9A64-2A7E-114C-229B33DB8CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071FF828-9A64-2A7E-114C-229B33DB8CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071FF828-9A64-2A7E-114C-229B33DB8CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

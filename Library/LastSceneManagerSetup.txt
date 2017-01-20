@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Unconference/MeshWithCollider/Scenes/ThrowBall.unity
+  isLoaded: 1
+  isActive: 1
